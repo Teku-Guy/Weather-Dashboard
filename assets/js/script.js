@@ -84,7 +84,11 @@ function getWeather(cityName){
                 uvIndexEl.append(uvIndex);
 
                 //remove forecast then render it
-                let prevCardEl = document.querySelectorAll("card-panel")
+                let prevCardEl = document.querySelectorAll(".card-panel")
+
+                for(i = 0; i < prevCardEl.length; i++){
+                    $('.card-panel').remove();
+                }
 
                 //now lets get the 5 day forecast
                  console.log(uvResponse.daily);
