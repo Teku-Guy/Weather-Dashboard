@@ -1,5 +1,5 @@
 let searchBtn = $(".searchBtn");
-let searchInput = $("#searchInput");
+let searchInput = $("#city");
 
 // Left column locations
 let cityNameEl = $(".cityName");
@@ -13,6 +13,17 @@ let humidityEl = $(".humidity");
 let windSpeedEl = $(".windSpeed");
 let uvIndexEl = $(".uvIndex");
 let cardRow = $(".card-row");
+
+searchBtn.on("click", function(e) {
+    e.preventDefault();
+    if (searchInput.val() === "") {
+        alert("You must enter a city");
+        return;
+    }
+    console.log("clicked button")
+    console.log(searchInput.val());
+});
+
 
 
 function createForecast(date, icon, temp, humidity) {
