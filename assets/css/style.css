@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+.search {
+    padding: 25px;
+    background-color:hsla(0,0%,71%);
+}
+
+.break {
+    padding-top: 20px;
+    border-bottom: 3px solid #cecfd2;
+}
+
+.forecast {
+    margin-top: 25px;
+    border: solid 1px #cecfd2;
+    margin-left: 5%;
+    min-width: 640px;
+    padding: 12px 15px 15px 15px;
+    height: 40%;
+}
+
+.five-day h2 {
+   margin-top: 25px;
+   margin-left: 5%;
+}
