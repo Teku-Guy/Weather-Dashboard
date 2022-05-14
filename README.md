@@ -1,26 +1,40 @@
 # Weather-Dashboard
 
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+
+![preview-image](./assets/img/prev.png)
+
 [Click Here for Live Site](https://teku-guy.github.io/Weather-Dashboard/)
 
-## User Story
+## Table of Contents
+  - [Description](#description)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
-> AS A traveler <br>
-I WANT to see the weather outlook for multiple cities <br>
-SO THAT I can plan a trip accordingly <br>
+## Description
 
-## Acceptance Criteria
 
-> GIVEN a weather dashboard with form inputs <br>
-WHEN I search for a city <br>
-THEN I am presented with current and future conditions for that city and that city is added to the search history <br>
-WHEN I view current weather conditions for that city <br>
-THEN I am presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index <br>
-WHEN I view the UV index <br>
-THEN I am presented with a color that indicates whether the conditions are favorable, moderate, or severe <br>
-WHEN I view future weather conditions for that city <br>
-THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity <br>
-WHEN I click on a city in the search history <br>
-THEN I am again presented with current and future conditions for that city <br>
+## Usage
 
-## Preview
-![preview-image](./assets/img/prev.png)
+
+## License
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+<br />
+This application is covered by the MIT license. 
+    
+
+## Contributing
+Gustavo Muratalla
+
+## Tests
+Check out our live site [here](https://teku-guy.github.io/Weather-Dashboard/)
+
+## Questions
+U can always open a github issues prompt from our github repo<br />
+<br />
+:octocat: Find me on GitHub: [Teku-Guy](https://github.com/Teku-Guy)<br />
+ <br />
+ Email me with any questions: gusmuratalla@gmail.com<br /><br />
