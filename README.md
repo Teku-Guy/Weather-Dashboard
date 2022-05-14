@@ -15,10 +15,10 @@
   - [Questions](#questions)
 
 ## Description
-
+Using the OpenWeather API we can create querries for the Weather in different parts of the worlds and injest that data back into our website using HTML, CSS, and Vanilla JavaScript.
 
 ## Usage
-
+To inform user about there weekly weather forecast in any city the live in or choose to look up.
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
