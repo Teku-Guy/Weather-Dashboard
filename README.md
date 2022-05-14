@@ -1,5 +1,5 @@
 # Weather-Dashboard
-## Week Challenge #6 Server-Side APIs Challenge
+
 [Click Here for Live Site](https://teku-guy.github.io/Weather-Dashboard/)
 
 ## User Story
