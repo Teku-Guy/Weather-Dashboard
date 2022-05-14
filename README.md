@@ -18,7 +18,7 @@
 Using the OpenWeather API we can create querries for the Weather in different parts of the worlds and injest that data back into our website using HTML, CSS, and Vanilla JavaScript.
 
 ## Usage
-To inform user about there weekly weather forecast in any city the live in or choose to look up. This project was helpful for me to understand how to make queries to an API in vanilla JS and how to injest that incomming data into the website
+To inform user about there weekly weather forecast in any city the live in or choose to look up. This project was helpful for me to understand how to make queries to an API in vanilla JS and how to injest that incomming data into the website.
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
